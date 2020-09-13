@@ -24,7 +24,7 @@ body {
 
 .quote-container {
     width: auto;
-    max-width: 900px;
+    max-width: 400px;
     padding: 20px 30px;
     border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.4);
@@ -39,8 +39,8 @@ body {
 
 button {
     cursor: pointer;
-    font-size: 1.2rem;
-    height: 2.5rem;
+    font-size: 1rem;
+    height: 2rem;
     border: none;
     border-radius: 10px;
     color: #fff;
@@ -64,24 +64,24 @@ button:active {
 }
 
 .fa-twitter {
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 .quote-text {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
 .long-quote {
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .fa-quote-left {
-    font-size: 4rem;
+    font-size: 1.5rem;
 }
 
 .quote-author {
     margin-top: 15px;
-    font-size: 1rem;
+    font-size: 0.5rem;
     font-weight: 400;
     font-style: italic;
 }
